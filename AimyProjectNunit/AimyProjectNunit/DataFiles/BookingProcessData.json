@@ -1,0 +1,84 @@
+﻿[
+  {
+    "RegisterEmail": "example005@gmail.com",
+    "RegisterPassword": "12341234",
+    "RegisterConfirmPassword": "12341234",
+    "loginUsername": "example005@gmail.com",
+    "loginPassword": "12341234",
+    "AHfirstname": "Eddie",
+    "AHlastname": "He",
+    "AHemail": "eddieexample@gamil.com",
+    "AHmobilephoneCode": "64",
+    "AHmobilephoneNum": "1231234",
+    "AHstreet": "Queen st",
+    "AHsuburb": "City Center",
+    "AHcity": "City",
+    "AHregion": "Auckland",
+    "AHcountry": "New Zealand",
+    "AHpostcode": "1234",
+    "EmergencyContact": [
+      {
+        "ECfirstname": "TingTing",
+        "EClastname": "Lee",
+        "ECemail": "tingting@gmail.com.com",
+        "ECmobilephoneCode": "64",
+        "ECmobilephoneNum": "4568887",
+        "ECstreet": "Eden st",
+        "ECsuburb": "Mt Eden",
+        "ECcity": "Auckland",
+        "Ecregion": "Auckland",
+        "ECcountry": "New Zealand",
+        "ECpostcode": "1234"
+      },
+      {
+        "ECfirstname": "Ovianna",
+        "EClastname": "He",
+        "ECemail": "oviannaexample@gamil.com",
+        "ECmobilephoneCode": "64",
+        "ECmobilephoneNum": "7894561",
+        "ECstreet": "Eden st",
+        "ECsuburb": "Mt Eden",
+        "ECcity": "Auckland",
+        "Ecregion": "Auckland",
+        "ECcountry": "New Zealand",
+        "ECpostcode": "1234"
+      }
+    ],
+    "Attendees": [
+      {
+        "AttendeeFirstName": "OPPO",
+        "AttendeeLastName": "He",
+        "AttendeeKnownAs": "OPPPPO",
+        "AttendeeRoomNumber": "104",
+        "AttendeeSchoolYear": "5"
+      },
+      {
+        "AttendeeFirstName": "Vivia",
+        "AttendeeLastName": "He",
+        "AttendeeKnownAs": "Vivi",
+        "AttendeeRoomNumber": "106",
+        "AttendeeSchoolYear": "5"
+      }
+    ],
+    "MedicalAndConditionsInfo": [
+      {
+        "DoctorName": "David Key",
+        "MedicalServiceName": "DavidMedicalService",
+        "NumberCode": "64",
+        "NumberAreaCode": "021",
+        "NumberLocalNum": "7894587",
+        "NumberExt": "123",
+        "InsurancePolicyNumber": "123456"
+      },
+      {
+        "DoctorName": "Kevin",
+        "MedicalServiceName": "KevinMedicalService",
+        "NumberCode": "64",
+        "NumberAreaCode": "021",
+        "NumberLocalNum": "8756458",
+        "NumberExt": "123",
+        "InsurancePolicyNumber": "123456"
+      }
+    ]
+  }
+]
